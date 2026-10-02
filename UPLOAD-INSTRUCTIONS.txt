@@ -1,0 +1,17 @@
+KEERTHI VASAN — GITHUB PAGES
+
+1. Extract this ZIP on your computer.
+2. Open https://github.com/nvasank/nvasank.github.io
+3. Click Add file > Upload files.
+4. Upload index.html, keerthi-vasan.jpg, diat-logo.png and Keerthi_Vasan_Resume.pdf directly into the repository root.
+   Do not upload the ZIP itself or a containing folder.
+5. Click Commit changes and commit directly to main.
+6. Wait for the Pages deployment to complete under Actions.
+7. Open https://nvasank.github.io/ and refresh.
+
+Settings > Pages should use Deploy from a branch, main, / (root).
+You can preview locally by opening index.html alongside the PDF.
+
+Content is based on the supplied résumé. Research interests and developing skills
+are labelled accordingly. The Safe-X result refers to controlled simulated testing.
+The supplied portrait is included as keerthi-vasan.jpg.
